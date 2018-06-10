@@ -1,0 +1,11 @@
+/Users/DDP/myApp/bin/Debug/netcoreapp2.1/myApp.deps.json
+/Users/DDP/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.json
+/Users/DDP/myApp/bin/Debug/netcoreapp2.1/myApp.runtimeconfig.dev.json
+/Users/DDP/myApp/bin/Debug/netcoreapp2.1/myApp.dll
+/Users/DDP/myApp/bin/Debug/netcoreapp2.1/myApp.pdb
+/Users/DDP/myApp/obj/Debug/netcoreapp2.1/myApp.csprojAssemblyReference.cache
+/Users/DDP/myApp/obj/Debug/netcoreapp2.1/myApp.csproj.CoreCompileInputs.cache
+/Users/DDP/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfoInputs.cache
+/Users/DDP/myApp/obj/Debug/netcoreapp2.1/myApp.AssemblyInfo.cs
+/Users/DDP/myApp/obj/Debug/netcoreapp2.1/myApp.dll
+/Users/DDP/myApp/obj/Debug/netcoreapp2.1/myApp.pdb
