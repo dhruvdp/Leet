@@ -5,7 +5,11 @@ namespace HelloWorld
 {
     class Hello 
     {
-        static void Main() 
+
+        // static void Main() {
+        //     twoSum();
+        // }
+        static void twoSum() 
         {
             int[] nums = new int[] {2,7,11,15,16};
             int target = 18;
